@@ -1,5 +1,7 @@
 # Picture Plus 🎨 - Image Generation with Style Reference
 
+[中文 README 点击这里](./README.zh-CN.md)
+
 Generate **9 images with consistent style** from a single reference image.  
 Supports both **Google Gemini** and **Volcengine Doubao Seedream**.
 
