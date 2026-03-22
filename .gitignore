@@ -1,0 +1,29 @@
+# Dependencies
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Output and temp
+tmp/
+output/
+*/tmp/
+*/output/
+*.log
+
+# Sensitive - NEVER commit these
+.env
+.env.*
+*api-key*
+*secrets*
+credentials*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
